@@ -4,4 +4,31 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent">
 
+  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/reason_for_choosing_field"/>
+  <Spinner
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/reason_for_choosing_input"/>
+
+  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/post_graduation_plans_field"/>
+  <Spinner
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/post_graduation_plans_input"/>
+
+  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/plans_to_help_syrian_reconstruction_field"/>
+  <Spinner
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/plans_to_help_syrian_reconstruction_input"/>
+
 </LinearLayout>

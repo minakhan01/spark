@@ -402,10 +402,12 @@
   <!--Previous study/experience-->
   <string name="degree_input">Degree name</string>
   <string name="to_me_input">To me</string>
+  <string name="year_input">Year</string>
   <string name="from_input">From</string>
+  <string name="noun_input">Noun</string>
   <string name="country_input">Country</string>
   <string name="average_percentage_input">Average Percentage</string>
-  <string name="upload_diploma_input">Please download a copy of high school diploma (High school diploma)</string>
+  <string name="upload_diploma_input">Please upload a copy of high school diploma (High school diploma)</string>
   <string name="equivalent_certificate">Do you have the equivalent certificate?</string>
   <string name="equivalent_certificate_input">Upload a copy of the equivalent certificate</string>
   <string name="development_of_higher_education">The development of higher education</string>
@@ -413,6 +415,20 @@
   <string name="avergae_score_input">Average Score in %</string>
   <string name="year_finished_input">In what you finished your studies</string>
   <string name="stopped_studies_input">In what year you stopped your studies</string>
-  <string name="begin_studies_input">In what year you began your studies</string>
+  <string name="begin_studies_input">In what year did you begin your studies</string>
+  <string name="upload_last_diploma_input">Upload your last diploma here</string>
+  <string name="upload_last_things_input">Upload last things Okhrydblom</string>
+  <string name="currently_enrolled_input">Are you currently enrolled in an educational institution?</string>
+  <string name="please_specify_input">If yes, please specify</string>
+  <string name="course_of_study_input">Course of study</string>
+  <string name="average_grade_input">Average grade</string>
+  <string name="degree_name_input">Degree name</string>
+  <string name="formal_employment_record_input">Formal employment record</string>
+  <string name="organization_input">Organization (if any)</string>
+  <string name="job_title_input">Job title</string>
+  <string name="other_activities_input">Other activities (such as volunteering or other work. Start with most recent)</string>
 
+  <!--Stimulus-->
+  
 </resources>
+

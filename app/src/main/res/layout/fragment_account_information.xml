@@ -3,8 +3,32 @@
               android:orientation="vertical"
               android:layout_width="match_parent"
               android:layout_height="match_parent">
+  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/first_name_field"/>
   <EditText
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:text=""/>
+    android:id="@+id/first_name_input"/>
+
+  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/last_name_field"/>
+  <EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/last_name_input"/>
+
+  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/gender_field"/>
+  <EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/gender_field"
+    android:id="@+id/gender_input"/>
+
 </LinearLayout>

@@ -437,7 +437,7 @@
   
   <!--Field Studies-->
   <string name="already_got_scholarship_field">Do you already have a scholarship?</string>
-  <string name="specify_grant_field">If yes, please specify the grant that you'll receive</string>
+  <string name="specify_grant_field">If yes, please specify the grant that you\'ll receive</string>
   <string name="first_study_interest_field">First option: What field of study are you interested in
     studying?</string>
   <string name="second_study_interest_field">Second option: What field of study are you interested

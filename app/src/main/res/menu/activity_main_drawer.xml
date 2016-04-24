@@ -5,32 +5,32 @@
     <item
       android:id="@+id/nav_account_info"
       android:icon="@drawable/ic_menu_camera"
-      android:title="Import"/>
+      android:title="Account Information"/>
     <item
       android:id="@+id/nav_personal_info"
       android:icon="@drawable/ic_menu_gallery"
-      android:title="Gallery"/>
+      android:title="Personal Information"/>
     <item
       android:id="@+id/nav_past_experience"
       android:icon="@drawable/ic_menu_slideshow"
-      android:title="Slideshow"/>
+      android:title="Previous Study/Experience"/>
     <item
       android:id="@+id/nav_field_studies"
       android:icon="@drawable/ic_menu_manage"
-      android:title="Tools"/>
-  </group>
+      android:title="Field Studies"/>
 
-  <item android:title="Communicate">
-    <menu>
+  <!--<item android:title="Communicate">-->
+    <!--<menu>-->
       <item
         android:id="@+id/nav_stimulus"
         android:icon="@drawable/ic_menu_share"
-        android:title="Share"/>
+        android:title="Stimulus"/>
       <item
         android:id="@+id/nav_send"
         android:icon="@drawable/ic_menu_send"
-        android:title="Send"/>
-    </menu>
-  </item>
+        android:title="Record and Send"/>
+    <!--</menu>-->
+  <!--</item>-->
+  </group>
 
 </menu>

@@ -399,6 +399,8 @@
   <string name="camp_name_field">Camp name</string>
   <string name="camp_site_field">Camp site</string>
   <string name="parent_details_text">Details about parents</string>
+  <string name="sibling_details_text">Details about brothers/sisters</string>
+  <string name="children_details_text">Details about child</string>
   <string name="current_country_of_residence_field">Current country of residence</string>
   <string name="country_of_birth_field">Country of birth</string>
   <string name="case_field">Case</string>

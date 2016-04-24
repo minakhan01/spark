@@ -19,9 +19,13 @@ import android.view.View;
 public class MainActivity extends AppCompatActivity
     implements NavigationView.OnNavigationItemSelectedListener {
 
+  private final Fragment mAccountInformationFragment = new AccountInformationFragment();
+
+
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
+    mAccountInformationFragment.setRetainInstance(true);
     setContentView(R.layout.activity_main);
     Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
     setSupportActionBar(toolbar);
@@ -100,7 +104,7 @@ public class MainActivity extends AppCompatActivity
     String title = getString(R.string.app_name);
 
     if (id == R.id.nav_account_info) {
-      fragment = new AccountInformationFragment();
+      fragment =mAccountInformationFragment;
       title = getResources().getString(R.string.account_info);
     } else if (id == R.id.nav_personal_info) {
       fragment = new PersonalInformationFragment();

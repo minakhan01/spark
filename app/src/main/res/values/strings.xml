@@ -364,4 +364,55 @@
     <item>Zambia 260</item>
     <item>Zimbabwe 263</item>
   </string-array>
+
+  <!--Account Information strings-->
+  <string name="first_name_input">First name as it is written in passport/identity card in Arabic</string>
+  <string name="last_name_input">Last name as it is written in passport/identity card in Arabic</string>
+  <string name="gender_input">Gender</string>
+  <string name="dob_input">Date of Birth</string>
+  <string name="email_input">Email</string>
+  <string name="country_of_residence_input">Country of Residence</string>
+  <string name="palestinian_or_syrian_input">Do you have syrian nationality or are you a Palestinian from Syria?</string>
+  <string name="mobile_input">Mobile</string>
+
+  <!--Personal Information-->
+  <string name="applied_resettlement_input">Did you apply for resettlement</string>
+  <string name="relocation_application_location_input">Where did you apply the paperwork for your relocation?</string>
+  <string name="social_status_input">Social status</string>
+  <string name="current_address_input">Current Address</string>
+  <string name="current_city_input">Current city or town</string>
+  <string name="living_in_refugee_camp_input">Do you currently live in a refugee camp?</string>
+  <string name="camp_name_input">Camp name</string>
+  <string name="camp_site_input">Camp site</string>
+  <string name="parent_details_text">Details about parents</string>
+  <string name="current_country_of_residence_input">Current country of residence</string>
+  <string name="country_of_birth_input">Country of birth</string>
+  <string name="case_input">Case</string>
+  <string name="name_input">Name</string>
+  <string name="educational_status_input">Educational Status</string>
+  <string name="age_input">Age</string>
+  <string name="live_w_brother_sister_input">Do you live with your parents/brother or sisters?</string>
+  <string name="sustaining_input">Do you have of sustaining?</string>
+  <string name="details_input">If so, please give details</string>
+  <string name="qrapat_links_input">Qarpat/Links</string>
+  <string name="disability_needs_input">Do you have disability and/or special needs?</string>
+  <string name="upload_passport_input">Upload a copy of your passport, your indentity and/or card refugees</string>
+  <string name="upload_unhcr_card">Upload UNHCR card</string>
+  
+  <!--Previous study/experience-->
+  <string name="degree_input">Degree name</string>
+  <string name="to_me_input">To me</string>
+  <string name="from_input">From</string>
+  <string name="country_input">Country</string>
+  <string name="average_percentage_input">Average Percentage</string>
+  <string name="upload_diploma_input">Please download a copy of high school diploma (High school diploma)</string>
+  <string name="equivalent_certificate">Do you have the equivalent certificate?</string>
+  <string name="equivalent_certificate_input">Upload a copy of the equivalent certificate</string>
+  <string name="development_of_higher_education">The development of higher education</string>
+  <string name="high_education_details_section">If you certificate of higher your education or you have not completed, please specifiy</string>
+  <string name="avergae_score_input">Average Score in %</string>
+  <string name="year_finished_input">In what you finished your studies</string>
+  <string name="stopped_studies_input">In what year you stopped your studies</string>
+  <string name="begin_studies_input">In what year you began your studies</string>
+
 </resources>

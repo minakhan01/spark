@@ -399,6 +399,8 @@
   <string name="camp_name_field">Camp name</string>
   <string name="camp_site_field">Camp site</string>
   <string name="parent_details_text">Details about parents</string>
+  <string name="sibling_details_text">Details about brothers/sisters</string>
+  <string name="children_details_text">Details about child</string>
   <string name="current_country_of_residence_field">Current country of residence</string>
   <string name="country_of_birth_field">Country of birth</string>
   <string name="case_field">Case</string>
@@ -415,6 +417,7 @@
   <string name="upload_unhcr_card">Upload UNHCR card</string>
   
   <!--Previous study/experience fields-->
+  <string name="high_school">High School: Please state your name and location, and the field of stuy, and degree or any academic another branch. Average is the sum of scores divided by the total full scores</string>
   <string name="degree_field">Degree name</string>
   <string name="to_me_field">To me</string>
   <string name="year_field">Year</string>
@@ -423,8 +426,8 @@
   <string name="country_field">Country</string>
   <string name="average_percentage_field">Average Percentage</string>
   <string name="upload_diploma_field">Please upload a copy of high school diploma (High school diploma)</string>
-  <string name="equivalent_certificate">Do you have the equivalent certificate?</string>
-  <string name="equivalent_certificate_field">Upload a copy of the equivalent certificate</string>
+  <string name="equivalent_certificate_field">Do you have the equivalent certificate?</string>
+  <string name="upload_equivalent_certificate_field">Upload a copy of the equivalent certificate</string>
   <string name="development_of_higher_education">The development of higher education</string>
   <string name="high_education_details_section">If you certificate of higher your education or you
     have not completed, please specifiy</string>
@@ -432,6 +435,7 @@
   <string name="year_finished_field">In what you finished your studies</string>
   <string name="stopped_studies_field">In what year you stopped your studies</string>
   <string name="begin_studies_field">In what year did you begin your studies</string>
+  <string name="last_education">Last education</string>
   <string name="upload_last_diploma_field">Upload your last diploma here</string>
   <string name="upload_last_things_field">Upload last things Okhrydblom</string>
   <string name="currently_enrolled_field">Are you currently enrolled in an educational institution?</string>

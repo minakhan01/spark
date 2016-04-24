@@ -365,70 +365,106 @@
     <item>Zimbabwe 263</item>
   </string-array>
 
-  <!--Account Information strings-->
-  <string name="first_name_input">First name as it is written in passport/identity card in Arabic</string>
-  <string name="last_name_input">Last name as it is written in passport/identity card in Arabic</string>
-  <string name="gender_input">Gender</string>
-  <string name="dob_input">Date of Birth</string>
-  <string name="email_input">Email</string>
-  <string name="country_of_residence_input">Country of Residence</string>
-  <string name="palestinian_or_syrian_input">Do you have syrian nationality or are you a Palestinian from Syria?</string>
-  <string name="mobile_input">Mobile</string>
+  <!--Account Information fields-->
+  <string name="first_name_field">First name as it is written in passport/identity card in Arabic
+  </string>
+  <string name="last_name_field">Last name as it is written in passport/identity card in Arabic
+  </string>
+  <string name="gender_field">Gender</string>
+  <string name="dob_field">Date of Birth</string>
+  <string name="email_field">Email</string>
+  <string name="country_of_residence_field">Country of Residence</string>
+  <string name="palestinian_or_syrian_field">Do you have syrian nationality or are you a Palestinian
+    from Syria?</string>
+  <string name="mobile_field">Mobile</string>
 
-  <!--Personal Information-->
-  <string name="applied_resettlement_input">Did you apply for resettlement</string>
-  <string name="relocation_application_location_input">Where did you apply the paperwork for your relocation?</string>
-  <string name="social_status_input">Social status</string>
-  <string name="current_address_input">Current Address</string>
-  <string name="current_city_input">Current city or town</string>
-  <string name="living_in_refugee_camp_input">Do you currently live in a refugee camp?</string>
-  <string name="camp_name_input">Camp name</string>
-  <string name="camp_site_input">Camp site</string>
+  <!--Personal Information fields-->
+  <string name="applied_resettlement_field">Did you apply for resettlement</string>
+  <string name="relocation_application_location_field">Where did you apply the paperwork for your
+    relocation?</string>
+  <string name="social_status_field">Social status</string>
+  <string name="current_address_field">Current Address</string>
+  <string name="current_city_field">Current city or town</string>
+  <string name="living_in_refugee_camp_field">Do you currently live in a refugee camp?</string>
+  <string name="camp_name_field">Camp name</string>
+  <string name="camp_site_field">Camp site</string>
   <string name="parent_details_text">Details about parents</string>
-  <string name="current_country_of_residence_input">Current country of residence</string>
-  <string name="country_of_birth_input">Country of birth</string>
-  <string name="case_input">Case</string>
-  <string name="name_input">Name</string>
-  <string name="educational_status_input">Educational Status</string>
-  <string name="age_input">Age</string>
-  <string name="live_w_brother_sister_input">Do you live with your parents/brother or sisters?</string>
-  <string name="sustaining_input">Do you have of sustaining?</string>
-  <string name="details_input">If so, please give details</string>
-  <string name="qrapat_links_input">Qarpat/Links</string>
-  <string name="disability_needs_input">Do you have disability and/or special needs?</string>
-  <string name="upload_passport_input">Upload a copy of your passport, your indentity and/or card refugees</string>
+  <string name="current_country_of_residence_field">Current country of residence</string>
+  <string name="country_of_birth_field">Country of birth</string>
+  <string name="case_field">Case</string>
+  <string name="name_field">Name</string>
+  <string name="educational_status_field">Educational Status</string>
+  <string name="age_field">Age</string>
+  <string name="live_w_brother_sister_field">Do you live with your parents/brother or sisters?</string>
+  <string name="sustaining_field">Do you have of sustaining?</string>
+  <string name="details_field">If so, please give details</string>
+  <string name="qrapat_links_field">Qarpat/Links</string>
+  <string name="disability_needs_field">Do you have disability and/or special needs?</string>
+  <string name="upload_passport_field">Upload a copy of your passport, your indentity and/or card
+    refugees</string>
   <string name="upload_unhcr_card">Upload UNHCR card</string>
   
-  <!--Previous study/experience-->
-  <string name="degree_input">Degree name</string>
-  <string name="to_me_input">To me</string>
-  <string name="year_input">Year</string>
-  <string name="from_input">From</string>
-  <string name="noun_input">Noun</string>
-  <string name="country_input">Country</string>
-  <string name="average_percentage_input">Average Percentage</string>
-  <string name="upload_diploma_input">Please upload a copy of high school diploma (High school diploma)</string>
+  <!--Previous study/experience fields-->
+  <string name="degree_field">Degree name</string>
+  <string name="to_me_field">To me</string>
+  <string name="year_field">Year</string>
+  <string name="from_field">From</string>
+  <string name="noun_field">Noun</string>
+  <string name="country_field">Country</string>
+  <string name="average_percentage_field">Average Percentage</string>
+  <string name="upload_diploma_field">Please upload a copy of high school diploma (High school diploma)</string>
   <string name="equivalent_certificate">Do you have the equivalent certificate?</string>
-  <string name="equivalent_certificate_input">Upload a copy of the equivalent certificate</string>
+  <string name="equivalent_certificate_field">Upload a copy of the equivalent certificate</string>
   <string name="development_of_higher_education">The development of higher education</string>
-  <string name="high_education_details_section">If you certificate of higher your education or you have not completed, please specifiy</string>
-  <string name="avergae_score_input">Average Score in %</string>
-  <string name="year_finished_input">In what you finished your studies</string>
-  <string name="stopped_studies_input">In what year you stopped your studies</string>
-  <string name="begin_studies_input">In what year did you begin your studies</string>
-  <string name="upload_last_diploma_input">Upload your last diploma here</string>
-  <string name="upload_last_things_input">Upload last things Okhrydblom</string>
-  <string name="currently_enrolled_input">Are you currently enrolled in an educational institution?</string>
-  <string name="please_specify_input">If yes, please specify</string>
-  <string name="course_of_study_input">Course of study</string>
-  <string name="average_grade_input">Average grade</string>
-  <string name="degree_name_input">Degree name</string>
-  <string name="formal_employment_record_input">Formal employment record</string>
-  <string name="organization_input">Organization (if any)</string>
-  <string name="job_title_input">Job title</string>
-  <string name="other_activities_input">Other activities (such as volunteering or other work. Start with most recent)</string>
-
-  <!--Stimulus-->
+  <string name="high_education_details_section">If you certificate of higher your education or you
+    have not completed, please specifiy</string>
+  <string name="avergae_score_field">Average Score in %</string>
+  <string name="year_finished_field">In what you finished your studies</string>
+  <string name="stopped_studies_field">In what year you stopped your studies</string>
+  <string name="begin_studies_field">In what year did you begin your studies</string>
+  <string name="upload_last_diploma_field">Upload your last diploma here</string>
+  <string name="upload_last_things_field">Upload last things Okhrydblom</string>
+  <string name="currently_enrolled_field">Are you currently enrolled in an educational institution?</string>
+  <string name="please_specify_field">If yes, please specify</string>
+  <string name="course_of_study_field">Course of study</string>
+  <string name="average_grade_field">Average grade</string>
+  <string name="degree_name_field">Degree name</string>
+  <string name="formal_employment_record_field">Formal employment record</string>
+  <string name="organization_field">Organization (if any)</string>
+  <string name="job_title_field">Job title</string>
+  <string name="other_activities_field">Other activities (such as volunteering or other work.
+    Start with most recent)</string>
   
+  <!--Field Studies-->
+  <string name="already_got_scholarship_field">Do you already have a scholarship?</string>
+  <string name="specify_grant_field">If yes, please specify the grant that you'll receive</string>
+  <string name="first_study_interest_field">First option: What field of study are you interested in
+    studying?</string>
+  <string name="second_study_interest_field">Second option: What field of study are you interested
+    in studying?</string>
+  <string name="grants_applications_field">Are you applying for other grants/scholarship?</string>
+  <string name="specify_certificates">If yes, please specify with certificates(s)</string>
+
+  <!--Stimulus fields-->
+  <string name="reason_for_choosing_field">Reason for choosing this particular academic field</string>
+  <string name="post_graduation_plans_field">What do you plan to do after graduation?</string>
+  <string name="plans_to_help_syrian_reconstruction_field">How do you think your education can help
+    contribute towards the reconstruction of Syria?</string>
+
+  <!--Record and send fields-->
+  <string name="spark_provide_grants_field">SPARK and other official bodies can use this information
+    to provide grants</string>
+  <string name="how_did_you_hear_field">How did you hear about SPARK?</string>
+  <string name="organization_otherwise_details_field">Organization or otherwise, please provide
+    details</string>
+  <string name="disclosure_statement_field">Disclosure statement</string>
+  <string name="disclosure_statement_text">I assure that all the information contained within the
+    authorized grant applicationsis true and accurate. I understadn that in the even of any evidence
+    of an error in the information or documents submitted will make me ineligible to enefit from
+    the grant program. The special Spark organization grant program funded by Ministry of Foreign
+    Affairs in the Kingdom of the Netherlands. Any other organizations or groups are not associated
+    with this program. Spark organization is exclusively concerened with the selection of students
+    who will be offered scholarships</string>
+
 </resources>
 

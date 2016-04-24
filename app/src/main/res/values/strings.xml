@@ -18,4 +18,156 @@
   <string name="navigation_drawer_close">Close navigation drawer</string>
 
   <string name="action_settings">Settings</string>
+  
+  <string-array name="course_of_study">
+    <item>Natural Sciences - Agriculture </item>
+    <item>Natural Sciences - Biological sciences </item>
+    <item>Natural Sciences - Chemistry </item>
+    <item>Natural Sciences - Computer and Information Sciences</item>
+    <item>Natural Sciences - Earty, Atmosphereic and Marine sciences</item>
+    <item>Natural Sciences - Health and Medical Sciences</item>
+    <item>Natural Sciences - Mathematical sciences</item>
+    <item>Natural Sciences - Physics and astronomy</item>
+    <item>Natural Sciences - ZOther</item>
+    <item>Engineering - Chemical engineering</item>
+    <item>Engineering - Civil engineering</item>
+    <item>Engineering - Electrical and Electronic engineering</item>
+    <item>Engineering - Industrial engineering</item>
+    <item>Engineering - Materials engineering</item>
+    <item>Engineering - Mechanical engineering</item>
+    <item>Engineering - Food engineering</item>
+    <item>Engineering - ZOther</item>
+    <item>Social Sciences - Antropology and Archaeology</item>
+    <item>Social Sciences - Economics</item>
+    <item>Social Sciences - Law</item>
+    <item>Social Sciences - Political Science</item>
+    <item>Social Sciences - Psychology</item>
+    <item>Social Sciences - Public Administration</item>
+    <item>Social Sciences - Sociology</item>
+    <item>Social Sciences - Tourism/hospitality</item>
+    <item>Social Sciences - Education/Training</item>
+    <item>Social Sciences - ZOther</item>
+    <item>Arts - History</item>
+    <item>Arts - Architecture and Construction</item>
+    <item>Arts - Fine/Creative arts and design</item>
+    <item>Arts - ZOther</item>
+    <item>Humanities - Communication</item>
+    <item>Humanities - Language/Literature</item>
+    <item>Humanities - Philosophy</item>
+    <item>Humanities - Religion and Theory</item>
+    <item>Humanities - Media/journalism</item>
+    <item>Humanities - ZOther</item>
+    <item>Business - Accounting</item>
+    <item>Business - Banking and Finance</item>
+    <item>Business - Business administration and management</item>
+    <item>Business - ZOther</item>
+    <item>ZOther</item>
+  </string-array>
+
+  <string-array name="degree_data">
+    <item>Other</item>
+    <item>General Baccalaureate</item>
+    <item>General Baccalaureate - Science</item>
+    <item>General Baccalaureate - Literature</item>
+    <item>Vocational/Technical Baccalaureate</item>
+    <item>Religious Baccalaureate</item>
+    <item>Adadiyah certificate/ Sixth Form Baccalaureate</item>
+    </string-array>
+
+  <string-array name="dependents_relationship">
+    <item>Brothers/Systers</item>
+    <item>Parent (s)</item>
+    <item>Children</item>
+  </string-array>
+
+  <string-array name="educational_status">
+    <item>Too young to go to school</item>
+    <item>Currently enrolled in primary/secondary education</item>
+    <item>Currently enrolled in higher education</item>
+    <item>Finished higher education</item>
+    <item>Dropped out</item>
+  </string-array>
+
+  <string-array name="high_education_status">
+    <item>Dropped out</item>
+    <item>Not Started</item>
+    <item>Started</item>
+    <item>Finished</item>
+    </string-array>
+
+  <string-array name="hear_about_spark">
+    <item>Friend/Family</item>
+    <item>Colleague</item>
+    <item>Social Network (e.g. Facebook, Twitter)</item>
+    <item>Search Engine</item>
+    <item>Organisation</item>
+    <item>Other</item>
+  </string-array>
+
+  <string-array name="how_to_rebuild_syrian">
+    <item>It will help me start a business/enterprise/organization in Syria</item>
+    <item>It will help me support my family inside Syria </item>
+    <item>I will be able to share my knowledge and experience when I return to my home community</item>
+    <item>It will give me hope for a future in Syria </item>
+    <item>I don't know</item>
+  </string-array>
+
+  <string-array name="interested_particular_academic_course">
+    <item>It is something I've wanted to do since I was a child</item>
+    <item>My parents want me to take this study course</item>
+    <item>I believe it can help me play important part in improving my community</item>
+    <item>I believe I will earn a lot of money</item>
+    <item>I don't  know </item>
+  </string-array>
+
+  <string-array name="marital_status">
+    <item>Deceased</item>
+    <item>Widowed</item>
+    <item>Single</item>
+    <item>Married</item>
+    <item>Divorced</item>
+  </string-array>
+
+  <string-array name="plan_after_graduation">
+    <item>I will look for opportunities to continue my studies in the country where I complete my bachelor's study </item>
+    <item>I will look for an internship in my field </item>
+    <item>I want to find a job immediately, whether it is in my field or not </item>
+    <item>I would like to start my own business/enterprise/organization </item>
+    <item>I don't know</item>
+  </string-array>
+
+  <string-array name="gender">
+    <item>Male</item>
+    <item>Female</item>
+  </string-array>
+
+  <string-array name="status_eligibility">
+    <item>Eligible</item>
+    <item>More info needed</item>
+    <item>Not Eligible</item>
+    <item>Conditionally eligible</item>
+  </string-array>
+
+  <string-array name="status_selection">
+    <item>Invitation to Boot Camp</item>
+    <item>Non eligible</item>
+    <item>Pre Reserve List</item>
+    <item>Post Reserve List</item>
+    <item>Selected</item>
+  </string-array>
+
+  <string-array name="status_resettlement_application">
+    <item>Approved</item>
+    <item>Turned down</item>
+    <item>Pending</item>
+  </string-array>
+
+  <string-array name="yes_no">
+    <item>Yes</item>
+    <item>No</item>
+  </string-array>
+
+  <string-array name="country_code">
+
+  </string-array>
 </resources>

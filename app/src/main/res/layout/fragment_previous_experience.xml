@@ -49,7 +49,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal">
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_height="wrap_content"
       android:id="@+id/avg_percent_highschool_input1"
@@ -62,7 +62,12 @@
     <Spinner
       android:layout_width="0dp"
       android:layout_height="wrap_content"
-      android:id="@+id/from_start_highschool_input1"
+      android:id="@+id/to_start_highschool_input1"
+      android:layout_weight="1"/>
+    <Spinner
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:id="@+id/from_highschool_input1"
       android:layout_weight="1"/>
     <Spinner
       android:layout_width="0dp"
@@ -80,7 +85,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:text="@string/upload_diploma_field"/>
-  <ImageView
+  <ImageButton
     android:layout_width="match_parent"
     android:id="@+id/upload_diploma_button"
     android:layout_height="wrap_content"
@@ -99,7 +104,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:text="@string/upload_equivalent_certificate_field"/>
-  <ImageView
+  <ImageButton
     android:layout_width="match_parent"
     android:id="@+id/upload_equivalent_certificate_button"
     android:layout_height="wrap_content"
@@ -159,7 +164,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal">
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_height="wrap_content"
       android:id="@+id/avg_percent_completed_input1"
@@ -246,7 +251,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/course_last_input1"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_height="wrap_content"
       android:id="@+id/avg_percent_last_input1"
@@ -287,7 +292,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/course_last_input2"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_height="wrap_content"
       android:id="@+id/avg_percent_last_input2"
@@ -323,7 +328,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:text="@string/upload_last_diploma_field"/>
-  <ImageView
+  <ImageButton
     android:layout_width="match_parent"
     android:id="@+id/upload_last_diploma_button"
     android:layout_height="wrap_content"
@@ -333,7 +338,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:text="@string/upload_last_things_field"/>
-  <ImageView
+  <ImageButton
     android:layout_width="match_parent"
     android:id="@+id/upload_last_things_button"
     android:layout_height="wrap_content"
@@ -343,7 +348,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:text="@string/upload_last_diploma_field"/>
-  <ImageView
+  <ImageButton
     android:layout_width="match_parent"
     android:id="@+id/upload_last_thing_button"
     android:layout_height="wrap_content"
@@ -413,7 +418,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/course_current_input1"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_height="wrap_content"
       android:id="@+id/avg_grade_current_input1"

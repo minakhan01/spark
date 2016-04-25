@@ -219,7 +219,7 @@ public class PreviousExperienceFragment extends PreferenceFragmentCompat {
 
     mEmploymentToSpinner1 = (Spinner) view.findViewById(R.id.to_employment_input1);
     mEmploymentToSpinner1.setAdapter(yearAdapter);
-    
+
     mEmploymentFromSpinner1 = (Spinner) view.findViewById(R.id.from_employment_input1);
     mEmploymentFromSpinner1.setAdapter(yearAdapter);
 

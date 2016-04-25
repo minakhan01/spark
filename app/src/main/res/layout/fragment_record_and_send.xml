@@ -29,4 +29,14 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:id="@+id/organization_otherwise_details_input"/>
+
+  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/disclosure_statement_field"/>
+  <CheckBox
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/disclosure_statement_text"
+    android:id="@+id/disclosure_checkbox"/>
 </LinearLayout>

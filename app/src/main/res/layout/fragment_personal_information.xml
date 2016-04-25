@@ -204,7 +204,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/country_of_birth_siblings_input1"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_weight="1"
       android:layout_height="wrap_content"
@@ -235,7 +235,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/country_of_birth_siblings_input2"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_weight="1"
       android:layout_height="wrap_content"
@@ -266,7 +266,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/country_of_birth_siblings_input3"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_weight="1"
       android:layout_height="wrap_content"
@@ -297,7 +297,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/country_of_birth_siblings_input4"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_weight="1"
       android:layout_height="wrap_content"
@@ -364,7 +364,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/country_of_birth_children_input1"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_weight="1"
       android:layout_height="wrap_content"
@@ -395,7 +395,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/country_of_birth_children_input2"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_weight="1"
       android:layout_height="wrap_content"
@@ -426,7 +426,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/country_of_birth_children_input3"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_weight="1"
       android:layout_height="wrap_content"
@@ -457,7 +457,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/country_of_birth_children_input4"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_weight="1"
       android:layout_height="wrap_content"
@@ -537,7 +537,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/country_of_birth_sustaining_input1"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_weight="1"
       android:layout_height="wrap_content"
@@ -568,7 +568,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/country_of_birth_sustaining_input2"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_weight="1"
       android:layout_height="wrap_content"
@@ -599,7 +599,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/country_of_birth_sustaining_input3"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_weight="1"
       android:layout_height="wrap_content"
@@ -629,7 +629,7 @@
       android:layout_height="wrap_content"
       android:id="@+id/country_of_birth_sustaining_input4"
       android:layout_weight="1"/>
-    <Spinner
+    <EditText
       android:layout_width="0dp"
       android:layout_weight="1"
       android:layout_height="wrap_content"
@@ -668,9 +668,9 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:text="@string/upload_passport_field"/>
-  <ImageView
+  <ImageButton
     android:layout_width="match_parent"
-    android:id="@+id/passport_picture_button"
+    android:id="@+id/upload_passport_picture_button"
     android:layout_height="wrap_content"
     android:src="@drawable/ic_menu_camera"/>
 
@@ -678,9 +678,9 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:text="@string/upload_unhcr_card"/>
-  <ImageView
+  <ImageButton
     android:layout_width="match_parent"
-    android:id="@+id/unhcr_card_picture_button"
+    android:id="@+id/upload_unhcr_card_picture_button"
     android:layout_height="wrap_content"
     android:src="@drawable/ic_menu_camera"/>
 
